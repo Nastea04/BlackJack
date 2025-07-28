@@ -1,0 +1,9 @@
+loss
+win
+loss
+loss
+win
+loss
+loss
+loss
+loss
